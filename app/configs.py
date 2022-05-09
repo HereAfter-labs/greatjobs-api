@@ -13,7 +13,7 @@ class BaseConfig:
     # SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:tajTAJ123@localhost/metabol'
     # SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:123456789@localhost/postgres2'
 
-    SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:tajTAJ123@localhost/greatjobs'
+    SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:password@localhost/greatjobs'
 
 
     SQLALCHEMY_TRACK_MODIFICATIONS = False
